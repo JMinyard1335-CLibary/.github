@@ -5,7 +5,7 @@ This project is dedicated to createing data structures and algorithims in c with
 <ol>
   <li> Code is cross system </li>
   <li> Code has proper error handleing </li>
-  <li> Code is generic </li>
+  <li> Code is generic typed</li>
   <li> Code has minimum #includes </li>
   <li> Code has proper documentation </li>
 </ol>
