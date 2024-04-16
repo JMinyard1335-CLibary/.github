@@ -1,32 +1,31 @@
 ## Welcome to Codehubs-C-Libary
 
-Codehubs-C-Libary is a pet project to create repos containing algorithims and data structures written in the c language.
-### Rules for projects:
+Codehubs-C-Libary is a pet project to gain a better understanding into the c language.\
+This project is dedicated to createing data structures and algorithims in c with the following criteria:
 <ol>
-  <li> Work on one project at a time.</li>
-  <li> Each repo will be dedicated to a different algorithm or data structure. </li>
-  <li> Code should be reuseable (allows for generic typing) </li>
-  <li> Each repo should have clear documentation on the implamentation of all functions. </li>
+  <li> Code is cross system </li>
+  <li> Code has proper error handleing </li>
+  <li> Code is generic </li>
+  <li> Code has minimum #includes </li>
+  <li> Code has proper documentation </li>
 </ol>
 
+These goals should help to create code that can be resued in many projects.\
+All documentation for the repos can be found as comments in the code and in the README of each repo.
+
 ### Current Repos:
+These repos are sorted by catagory where each catagory contains the repos.
 <ol>
   <li> Lists </li>
     <ul>
       <li> Doubly Linked List </li> 
-    </ul> 
+    </ul>
+  <li> Queues </li>
+  <li> Trees </li>
+  <li> Graphs </li>
+  <li> Sorts </li>
 </ol>
 
 ### ToDo:
 Nothing planned yet just getting our feet on the ground.
  
-
-<!--
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
