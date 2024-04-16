@@ -4,7 +4,7 @@ Codehubs-C-Libary is a pet project to gain a better understanding into the c lan
 This project is dedicated to createing data structures and algorithims in c with the following criteria:
 <ol>
   <li> Code is cross system </li>
-  <li> Code has proper error handleing </li>
+  <li> Code has proper error handling </li>
   <li> Code is generic typed</li>
   <li> Code has minimum #includes </li>
   <li> Code has proper documentation </li>
