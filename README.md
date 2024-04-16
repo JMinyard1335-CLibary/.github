@@ -1,2 +1,1 @@
-# .github
-Creates the Orgnization description
+Welcome to Codehubs-c-libary
